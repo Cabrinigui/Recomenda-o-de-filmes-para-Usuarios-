@@ -59,11 +59,5 @@ CopiarEditar
 pip install -r requirements.txt
 3. Execute o notebook ou script .py
 
-✨ Próximos Passos
-* Implementar recomendação baseada em itens (Item-Based).
-* Criar uma interface com Streamlit.
-* Adicionar métricas de avaliação: Precision@K, Recall@K.
-* Testar com outros datasets (ex: Netflix, Amazon, etc).
-
 🧑‍💻 Autor
 Guilherme, Cientista de Dados Jr. Formado em Engenharia da Computação | Pós em Engenharia de Machine Learning Apaixonado por IA, Recomendação e Análise de Dados 📊
