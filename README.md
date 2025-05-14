@@ -27,7 +27,7 @@ Realizamos uma análise visual e descritiva:
 
 🧩 Modelo de Recomendação
 Utilizamos o algoritmo User-Based KNN:
-1. Criamos uma matriz de usuários × filmes.
+1. Criei uma matriz de usuários × filmes.
 2. Preenchemos os valores ausentes com 0 (ausência de nota).
 3. Treinamos o KNN para encontrar usuários semelhantes.
 4. Recomendamos filmes que os vizinhos avaliaram bem, mas que o usuário ainda não viu.
